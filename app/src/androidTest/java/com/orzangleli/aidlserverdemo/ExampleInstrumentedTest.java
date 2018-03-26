@@ -1,4 +1,4 @@
-package com.orzangleli.aidldemo;
+package com.orzangleli.aidlserverdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
