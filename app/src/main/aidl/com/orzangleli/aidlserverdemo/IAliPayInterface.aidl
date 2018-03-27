@@ -1,6 +1,6 @@
 // IAliPayInterface.aidl
 package com.orzangleli.aidlserverdemo;
-
+import com.orzangleli.aidlserverdemo.OrderVo;
 // Declare any non-default types here with import statements
 
 interface IAliPayInterface {
@@ -11,5 +11,5 @@ interface IAliPayInterface {
     void basicTypes(int anInt, long aLong, boolean aBoolean, float aFloat,
             double aDouble, String aString);
 
-    boolean pay(double money);
+    boolean pay(in OrderVo orderVo);
 }

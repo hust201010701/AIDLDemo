@@ -1,4 +1,4 @@
-package com.orzangleli.aidlserverdemo;
+package com.orzangleli.aidldemo;
 
 import org.junit.Test;
 

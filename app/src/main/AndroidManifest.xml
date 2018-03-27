@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.orzangleli.aidlserverdemo"
+<manifest package="com.orzangleli.aidldemo"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light">
-        <activity android:name="com.orzangleli.aidlserverdemo.MainActivity">
+        <activity android:name="com.orzangleli.aidldemo.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
